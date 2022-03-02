@@ -2,11 +2,7 @@
 
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=codeSTACKr&show_icons=true)
-
-<br>
-<br>
-
-[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney)](https://github.com/amcgurney/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcgurney&layout=compact)](https://github.com/amcgurney/github-readme-stats)
 
 <!--
 **amcgurney/amcgurney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
