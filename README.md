@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Alan!
+### Hi there ✌🏼 I'm {Alan} 👨🏼‍💻
+
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=codeSTACKr&show_icons=true)
 
