@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alan!
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=codeSTACKr&show_icons=true)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=onedark&show_icons=true)
 
 <!--
 **amcgurney/amcgurney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
