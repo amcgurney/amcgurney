@@ -1,7 +1,7 @@
 ### Hi there ✌🏼 I'm {Alan} 👨🏼‍💻
 
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=codeSTACKr&show_icons=true)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcgurney&layout=compact)](https://github.com/amcgurney/github-readme-stats)
 
 <!--
