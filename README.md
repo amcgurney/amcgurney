@@ -1,5 +1,7 @@
 ### Hi there ✌🏼 I'm {Alan} 👨🏼‍💻
 
+<p> I am a full stack web developer and a freelance software engineer from Philadelphia, PA. In my spare time I can be found recording music in my home studio or spending time with our dogs, Charlie and Barnes. </p>
+
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcgurney&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcgurney&layout=compact)](https://github.com/amcgurney/github-readme-stats)
